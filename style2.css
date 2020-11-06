@@ -1,0 +1,15 @@
+body{
+    margin: 0%;
+}
+.conteiner {
+    width: 100vw;
+    height: 100vw;
+    background-color: black;
+}
+
+p{
+    color: rgb(255, 0, 106);
+}
+ul{
+    color: rgb(255, 0, 106);
+}
